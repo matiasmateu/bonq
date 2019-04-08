@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from "react-navigation";
 import Ionicons from 'react-native-vector-icons/Ionicons';
-import Accounts from '../views/Accounts';
+import AccountsContainer from '../containers/Accounts';
 import Events from '../views/Events';
 import Cards from '../views/Cards';
 import Together from '../views/Together';
@@ -9,7 +9,7 @@ import Profile from '../views/Profile'
 
 export const TabNavigator = createBottomTabNavigator(
   {
-  Accounts: Accounts,
+  Accounts: AccountsContainer,
   Events: Events,
   Cards: Cards,
   Together: Together,

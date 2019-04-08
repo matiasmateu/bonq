@@ -1,0 +1,18 @@
+{
+    "Owner":"Matias Mateu",
+    "Accounts":[
+        {
+            "name":"bunq account",
+            "state":1344.05,
+            "cards":[{
+                "name":"bunq card",
+                "type":"maestro",
+                "expiricy":"08/22"
+            },{
+                "name":"bunq card",
+                "type":"mastercard",
+                "expiricy":"08/22"
+            }]
+        }
+    ]
+}
