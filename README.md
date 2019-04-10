@@ -4,9 +4,9 @@
 
 #### STILL UNDER DEVELOPMENT
 
-<img src="https://github.com/matiasmateu/bonq/blob/master/assets/bonq1.png"></img>
-<img src="https://github.com/matiasmateu/bonq/blob/master/assets/bonq2.png"></img>
-<img src="https://github.com/matiasmateu/bonq/blob/master/assets/bonq3.png"></img>
+<img width="250px" src="https://github.com/matiasmateu/bonq/blob/master/assets/bonq1.png"></img>
+<img width="250px" src="https://github.com/matiasmateu/bonq/blob/master/assets/bonq2.png"></img>
+<img width="250px" src="https://github.com/matiasmateu/bonq/blob/master/assets/bonq3.png"></img>
 
 ---
 
