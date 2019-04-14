@@ -31,7 +31,7 @@ const EventsView = (accounts) => {
                 <Text style={styles.primaryText}>Accepted</Text>
               </Col>
             </Grid>
-
+            <Content>
             <List>
               <ListItem thumbnail>
                 <Left>
@@ -117,9 +117,8 @@ const EventsView = (accounts) => {
                 <Text>-8,00</Text>
                 </Right>
               </ListItem>
-
             </List>
-
+            </Content>
           </Container>
         );
     }
