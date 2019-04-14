@@ -18,11 +18,12 @@
 ---
 
 ## Technologies used
-
+- __State Management__
+    - [Redux]
 - __Routing and navigation__
-    - [React Navigation] for native mobile
+    - [React Navigation] 
 - __UI Toolkit/s__
-    - [Native Base] for native mobile
+    - [Native Base]
 - __Simpler mobile app development
     - [Expo]
 
